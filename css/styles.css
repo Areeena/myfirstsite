@@ -22,7 +22,14 @@ hr {
 
 img {
   height: 140px;
-  cursor: url(images/cursor.png), auto;
+}
+
+/* class selectors */
+.image1 {
+  height: 100%;
+  width: 100%;
+  max-width: 500px;
+  max-height: 400px;
 }
 
 /* unvisited link */
