@@ -1,0 +1,41 @@
+body {
+    background-color: #EAF6F6;
+}
+
+h1 {
+  color: #5d50c6;
+  cursor: copy;
+}
+
+h3 {
+  color: #5d50c6;
+  }
+
+hr {
+  width: 3%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #dddddd;
+  border-radius: 3;
+}
+
+img {
+  height: 140px;
+  cursor: url(images/cursor.png), auto;
+}
+
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: darkblue;
+}
+
+/* mouse over link */
+a:hover {
+  color: purple;
+}
